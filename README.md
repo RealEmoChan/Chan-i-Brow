@@ -75,7 +75,7 @@ Bu proje aktif olarak geliştirilmektedir ve her hafta yeni özellikler eklenmek
 Python yüklü olmalıdır.
 
 ```bash
-git clone https://github.com/kullaniciadi/chanibrow.git
+git clone https://github.com/RealEmoChan/chanibrow.git
 cd chanibrow
 python main.py
 ```
